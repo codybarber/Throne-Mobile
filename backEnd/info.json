@@ -1,0 +1,667 @@
+{
+    "businesses": [
+        {
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8469918,
+                "longitude": -84.372829
+            },
+            "id": "chama-gaucha-brazilian-steakhouse-atlanta",
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/5K4YXy49nue97tJxpxI5nQ/o.jpg",
+            "location": {
+                "address1": "3365 Piedmont Rd NE",
+                "address2": "Ste 1350",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "Chama Gaucha Brazilian Steakhouse",
+            "phone": "+14048420011",
+            "price": "$$$",
+            "rating": 4.5,
+            "review_count": 300,
+            "url": "https://www.yelp.com/biz/chama-gaucha-brazilian-steakhouse-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.84063,
+                "longitude": -84.369487
+            },
+            "id": "fogo-de-ch\u00e3o-brazilian-steakhouse-atlanta-4",
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/0uv-ra6fBhlY9RFRl_dSFg/o.jpg",
+            "location": {
+                "address1": "3101 Piedmont Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "Fogo de Ch\u00e3o Brazilian Steakhouse",
+            "phone": "+14042669988",
+            "price": "$$$",
+            "rating": 4.5,
+            "review_count": 737,
+            "url": "https://www.yelp.com/biz/fogo-de-ch%C3%A3o-brazilian-steakhouse-atlanta-4"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8421514,
+                "longitude": -84.3710145
+            },
+            "id": "bones-atlanta-6",
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/TVGKzv25f4BKBcfeLUSRMQ/o.jpg",
+            "location": {
+                "address1": "3130 Piedmont Rd NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "Bones",
+            "phone": "+14042372663",
+            "price": "$$$$",
+            "rating": 4.5,
+            "review_count": 595,
+            "url": "https://www.yelp.com/biz/bones-atlanta-6"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "yelpevents",
+                    "title": "Yelp Events"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8407767,
+                "longitude": -84.3697657
+            },
+            "id": "yee-yelp-goes-gaucho-fogo-de-chao-atlanta",
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/jl6R_5DjUPOZ39vCwBU7xQ/o.jpg",
+            "location": {
+                "address1": "3101 Piedmont Rd NE",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "YEE: Yelp Goes Gaucho @ Fogo De Chao",
+            "rating": 5.0,
+            "review_count": 27,
+            "url": "https://www.yelp.com/biz/yee-yelp-goes-gaucho-fogo-de-chao-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8385923483049,
+                "longitude": -84.3813416980268
+            },
+            "id": "umi-atlanta",
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/Iv9FnAIhyRjOboe5tGn5VA/o.jpg",
+            "location": {
+                "address1": "3050 Peachtree Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "Umi",
+            "phone": "+14048410040",
+            "price": "$$$$",
+            "rating": 4.5,
+            "review_count": 279,
+            "url": "https://www.yelp.com/biz/umi-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8370529,
+                "longitude": -84.3773661
+            },
+            "id": "joy-cafe-atlanta",
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/Eoo_czA9I20lbWQRt18XmQ/o.jpg",
+            "location": {
+                "address1": "316 Pharr Rd NE",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "Joy Cafe",
+            "phone": "+14048160306",
+            "price": "$$",
+            "rating": 4.5,
+            "review_count": 412,
+            "url": "https://www.yelp.com/biz/joy-cafe-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8456973376135,
+                "longitude": -84.3720575062501
+            },
+            "id": "jacks-new-yorker-deli-atlanta",
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/MbVMSs2nU3SCTbJUcfjk3Q/o.jpg",
+            "location": {
+                "address1": "3333 Piedmont Rd NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "Jack's New Yorker Deli",
+            "phone": "+14048697776",
+            "price": "$",
+            "rating": 4.5,
+            "review_count": 118,
+            "url": "https://www.yelp.com/biz/jacks-new-yorker-deli-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.839584,
+                "longitude": -84.377405
+            },
+            "id": "caf\u00e9-agora-atlanta-2",
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/qn7LQC8zINOIspzdtea5PA/o.jpg",
+            "location": {
+                "address1": "318 E Paces Ferry Rd NE",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "Caf\u00e9 Agora",
+            "phone": "+14049490900",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 551,
+            "url": "https://www.yelp.com/biz/caf%C3%A9-agora-atlanta-2"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8476219,
+                "longitude": -84.3655548
+            },
+            "id": "seven-lamps-atlanta",
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/b6XVpoS2vEzTM1SCWWs0Uw/o.jpg",
+            "location": {
+                "address1": "3400 Around Lenox Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30326"
+            },
+            "name": "Seven Lamps",
+            "phone": "+14044678950",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 427,
+            "url": "https://www.yelp.com/biz/seven-lamps-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.850695,
+                "longitude": -84.360668
+            },
+            "id": "st-cecilia-atlanta",
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/GhcTag2oxvC8PDepT1Wm-Q/o.jpg",
+            "location": {
+                "address1": "3455 Peachtree Rd NE",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30326"
+            },
+            "name": "St. Cecilia",
+            "phone": "+14045549995",
+            "price": "$$$",
+            "rating": 4.0,
+            "review_count": 316,
+            "url": "https://www.yelp.com/biz/st-cecilia-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8389015197754,
+                "longitude": -84.3791046142578
+            },
+            "id": "the-capital-grille-atlanta",
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/WLx5Ii4-jTceAQHyQgr10Q/o.jpg",
+            "location": {
+                "address1": "255 E. Paces Ferry Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "The Capital Grille",
+            "phone": "+14042621162",
+            "price": "$$$",
+            "rating": 4.5,
+            "review_count": 270,
+            "url": "https://www.yelp.com/biz/the-capital-grille-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.83875,
+                "longitude": -84.37193
+            },
+            "id": "aria-atlanta",
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/YK5gxrfXZb5EZbSRLfQOWw/o.jpg",
+            "location": {
+                "address1": "490 E Paces Ferry Rd NE",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "Aria",
+            "phone": "+14042337673",
+            "price": "$$$",
+            "rating": 4.0,
+            "review_count": 245,
+            "url": "https://www.yelp.com/biz/aria-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8464688,
+                "longitude": -84.3626569
+            },
+            "id": "true-food-kitchen-atlanta-7",
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/h0pgS_DqcGKxxY081Gnrfw/o.jpg",
+            "location": {
+                "address1": "3393 Peachtree Rd",
+                "address2": "Suite 3058B",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30326"
+            },
+            "name": "True Food Kitchen",
+            "phone": "+14044812980",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 408,
+            "url": "https://www.yelp.com/biz/true-food-kitchen-atlanta-7"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.85475,
+                "longitude": -84.38168
+            },
+            "id": "hals-the-steakhouse-atlanta",
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/3-CsSX7WkbjxO3VGfOazyA/o.jpg",
+            "location": {
+                "address1": "30 Old Ivy Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30342"
+            },
+            "name": "Hal's The Steakhouse",
+            "phone": "+14042610025",
+            "price": "$$$",
+            "rating": 4.0,
+            "review_count": 369,
+            "url": "https://www.yelp.com/biz/hals-the-steakhouse-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8472377810567,
+                "longitude": -84.3724290349745
+            },
+            "id": "farm-burger-atlanta",
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/bwKXkP5A4BRoGGeeDTRE_Q/o.jpg",
+            "location": {
+                "address1": "3365 Piedmont Rd NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "Farm Burger",
+            "phone": "+14048160603",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 471,
+            "url": "https://www.yelp.com/biz/farm-burger-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "french",
+                    "title": "French"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8471260070801,
+                "longitude": -84.3685684204102
+            },
+            "id": "bistro-niko-atlanta",
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/CHY433I2sIlY1Pn9qmv2Bw/o.jpg",
+            "location": {
+                "address1": "3344 Peachtree Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30326"
+            },
+            "name": "Bistro Niko",
+            "phone": "+14042616456",
+            "price": "$$$",
+            "rating": 4.0,
+            "review_count": 465,
+            "url": "https://www.yelp.com/biz/bistro-niko-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.851453574039,
+                "longitude": -84.3646716884995
+            },
+            "id": "new-york-prime-atlanta",
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/CAJM66MzuufGpprOuhkBJA/o.jpg",
+            "location": {
+                "address1": "3424 Peachtree Rd NE",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30326"
+            },
+            "name": "New York Prime",
+            "phone": "+14048460644",
+            "price": "$$$$",
+            "rating": 4.0,
+            "review_count": 121,
+            "url": "https://www.yelp.com/biz/new-york-prime-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8460083007812,
+                "longitude": -84.358268737793
+            },
+            "id": "houstons-restaurant-atlanta",
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/cqQtnL9djuKdvtoSqrtvxQ/o.jpg",
+            "location": {
+                "address1": "3321 Lenox Rd NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30326"
+            },
+            "name": "Houston's Restaurant",
+            "phone": "+14042377534",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 300,
+            "url": "https://www.yelp.com/biz/houstons-restaurant-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8398132324219,
+                "longitude": -84.3690795898438
+            },
+            "id": "kyma-atlanta",
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/ufEfqB_s3fIm5HHKapxZ_A/o.jpg",
+            "location": {
+                "address1": "3085 Piedmont Rd NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "Kyma",
+            "phone": "+14042620702",
+            "price": "$$$",
+            "rating": 4.0,
+            "review_count": 325,
+            "url": "https://www.yelp.com/biz/kyma-atlanta"
+        },
+        {
+            "categories": [
+                {
+                    "alias": "hookah_bars",
+                    "title": "Hookah Bars"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "persian",
+                    "title": "Persian/Iranian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8420028686523,
+                "longitude": -84.3700790405273
+            },
+            "id": "divan-atlanta",
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/j5IAFX4a9b4vG1crGtJqpw/o.jpg",
+            "location": {
+                "address1": "3125 Piedmont Rd NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "state": "GA",
+                "zip_code": "30305"
+            },
+            "name": "Divan",
+            "phone": "+14044674297",
+            "price": "$$",
+            "rating": 4.0,
+            "review_count": 239,
+            "url": "https://www.yelp.com/biz/divan-atlanta"
+        }
+    ],
+    "total": 2519
+}
